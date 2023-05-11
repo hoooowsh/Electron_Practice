@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/hoooowsh/Electron_Practice#readme",
   "dependencies": {
+    "axios": "^1.4.0",
+    "dotenv": "^16.0.3",
     "electron": "^24.3.0"
   }
 }
