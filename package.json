@@ -1,0 +1,24 @@
+{
+  "name": "electron_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/main/main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoooowsh/Electron_Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoooowsh/Electron_Practice/issues"
+  },
+  "homepage": "https://github.com/hoooowsh/Electron_Practice#readme",
+  "dependencies": {
+    "electron": "^24.3.0"
+  }
+}
